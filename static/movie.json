@@ -1,0 +1,220 @@
+[
+  {
+    "name": "Breaking Bad",
+    "imdb": 9.5,
+    "description": "Школьный учитель химии Уолтер Уайт узнаёт, что болен раком лёгких. Учитывая сложное финансовое состояние дел семьи, а также перспективы, Уолтер решает заняться изготовлением метамфетамина. Для этого он привлекает своего бывшего ученика Джесси Пинкмана.",
+    "product": "Sony Pictures Television",
+    "date": "2008",
+    "mainIMGDESCK":"static/img/breakingbad1.webp",
+    "mainIMGMB":"static/img/BB_MainMB.jpg",
+    "sposter": "static/img/breakingbad.webp",
+    "bposter": "static/img/breakingbad1.webp",
+    "genre": "Crime",
+    "kidsM":"none",
+    "type": "series",
+    "url": "movie.html?id=breakingbad",
+    "trailer": "/static/img/breakingbad1.webp",
+    "Film":"https://odysee.com/%24/embed/%40fimor%3A9%2FBreaking-Bad.S01E01%3A1?r=6sHSis59mgYpoayaJMirGmgHmF3tbmpD&signature=ecb322bd284884f059b8f13d6020f0c143e8b0b6e09423142ef47e0140fee478221469fe20ddfad0bf4d27ef168e8a4dd04006b40111b334071b7dce3e5fbfb6&signature_ts=1746618325",
+    "low": "video/breakingbad_low.webm",
+    "medium": "video/breakingbad_720p.mp4",
+    "high": "video/breakingbad_1080p.mp4",
+    "actors": [
+  {
+    "name": "Bryan Cranston",
+    "role": "Walter White",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_FMjpg_UY2048_.jpg"
+  },
+  {
+    "name": "Aaron Paul",
+    "role": "Jesse Pinkman",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_FMjpg_UX681_.jpg"
+  },
+  {
+    "name": "Anna Gunn",
+    "role": "Skyler White",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTk3MDQ3OV5BMl5BanBnXkFtZTcwNDY3NzQ4Mg@@._V1_FMjpg_UX280_.jpg"
+  },
+  {
+    "name": "Dean Norris",
+    "role": "Hank Schrader",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVhMDliNGMtMmViMi00MDMwLTk5YzctNDg1NGExNWI2ZDQ1XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg"
+  },
+  {
+    "name": "Betsy Brandt",
+    "role": "Marie Schrader",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTQ3MzcxMV5BMl5BanBnXkFtZTcwMTk2MTk3Mw@@._V1_FMjpg_UY2048_.jpg"
+  },
+  {
+    "name": "RJ Mitte",
+    "role": "Walter White Jr.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxNDc1OTEwN15BMl5BanBnXkFtZTcwOTQyMTIwOQ%40%40._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "name": "Bob Odenkirk",
+    "role": "Saul Goodman",
+    "image": "https://cdn.britannica.com/91/239191-050-8A4AD379/publicity-still-Better-Call-Saul-Bob-Odenkirk-2022.jpg"
+  },
+  {
+    "name": "Giancarlo Esposito",
+    "role": "Gus Fring",
+    "image": "https://static.independent.co.uk/2021/06/24/10/giancarlo%20esposito.jpg"
+  },
+  {
+    "name": "Jonathan Banks",
+    "role": "Mike Ehrmantraut",
+    "image": "https://data.mediaschool.indiana.edu/news-events/wp-content/uploads/sites/2/2019/10/banks-wide-1-1024x901.jpg"
+  },
+  {
+    "name": "Mark Margolis",
+    "role": "Hector Salamanca",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2NhYjg2ZDUtNzdiNS00MGEwLThjNjktNDNhMzM1MmQ1NmMyXkEyXkFqcGc%40._V1_.jpg"
+  },
+  {
+    "name": "Steven Michael Quezada",
+    "role": "Steven Gomez",
+    "image": "https://www.film.ru/sites/default/files/filefield_paths/328ff0bd00000578-3509958-image-a-2_1458946552125.jpg"
+  },
+  {
+    "name": "Lavell Crawford",
+    "role": "Huell Babineaux",
+    "image": "https://i.ticketweb.com/i/00/00/49/49/71/Original.jpg?v=3"
+  }
+],
+    "episodes": [
+  {
+    "title": "1 сезон 1 серия - Pilot",
+    "imdb": 9.0,
+    "thumbnail": "static/img/Breakingbad1s/pilot.webp",
+    "descriptionS": "Уолтер Уайт, школьный учитель химии, узнав о своем раке, решает начать производить метамфетамин. Он объединяется с бывшим учеником Джесси Пинкманом, чтобы обеспечить свою семью.",
+    "url": "movie.html?id=breakingbad",
+    "trailer": "https://odysee.com/%24/embed/%40fimor%3A9%2FBreaking-Bad.S01E01%3A1?r=6sHSis59mgYpoayaJMirGmgHmF3tbmpD&signature=ecb322bd284884f059b8f13d6020f0c143e8b0b6e09423142ef47e0140fee478221469fe20ddfad0bf4d27ef168e8a4dd04006b40111b334071b7dce3e5fbfb6&signature_ts=1746618325"
+  },
+  {
+    "title": "1 сезон 2 серия - Cat's in the Bag...",
+    "imdb": 8.9,
+    "thumbnail": "static/img/Breakingbad1s/Cat's in the Bag....webp",
+    "descriptionS": "Уолтер и Джесси пытаются избавиться от тел наркоторговцев, но один из них оказывается жив. Вскоре они сталкиваются с проблемой растворения трупов в кислоте.",
+    "url": "movie.html?id=breakingbads1e2",
+    "trailer": "https://peertube.wtf/videos/embed/7c12TrV7hm7Brs9TkWZcKN?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  },
+  {
+    "title": "1 сезон 3 серия - And the Bag's in the River",
+    "imdb": 9.1,
+    "thumbnail": "static/img/Breakingbad1s/And the Bag's in the River.webp",
+    "descriptionS": "Уолтер принимает судьбоносное решение о судьбе Крейзи-8, что отражает его моральное падение. Тем временем, его жена Скейлер начинает подозревать его.",
+    "url": "movie.html?id=breakingbads1e3",
+    "trailer": "https://peertube.wtf/videos/embed/uqgsTmdiycsYznC79GLrkz?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  },
+  {
+    "title": "1 сезон 4 серия - Cancer Man",
+    "imdb": 8.8,
+    "thumbnail": "static/img/Breakingbad1s/Cancer Man.webp",
+    "descriptionS": "Уолтер сообщает семье о своем диагнозе рака, но скрывает свои намерения по поводу будущего. Джесси пытается продать первую партию метамфетамина, но сталкивается с трудностями.",
+    "url": "movie.html?id=breakingbads1e4",
+    "trailer": "https://peertube.wtf/videos/embed/q3kjH1UBKnXHVhcVmq9un6?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  },
+  {
+    "title": "1 сезон 5 серия - Gray Matter",
+    "imdb": 8.7,
+    "thumbnail": "static/img/Breakingbad1s/Gray Matter.webp",
+    "descriptionS": "Старые друзья Уолтера предлагают ему помощь в лечении, но он отказывается, гордясь своей независимостью. Джесси, тем временем, сталкивается с проблемами в продаже наркотиков.",
+    "url": "movie.html?id=breakingbads1e5",
+    "trailer": "https://peertube.wtf/videos/embed/ed1Y1AannGvnzpJoDhbjto?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  },
+  {
+    "title": "1 сезон 6 серия - Crazy Handful of Nothin'",
+    "imdb": 9.2,
+    "thumbnail": "static/img/Breakingbad1s/Crazy Handful of Nothin.webp",
+    "descriptionS": "Уолтер решает жестко справиться с наркоторговцем Туко, используя свои химические знания. Это событие становится его первым шагом к становлению Хайзенбергом.",
+    "url": "movie.html?id=breakingbads1e6",
+    "trailer": "https://peertube.wtf/videos/embed/8dk96GjMPwYU3zo3xqqLpU?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  },
+  {
+    "title": "1 сезон 7 серия - A No-Rough-Stuff-Type Deal",
+    "imdb": 8.9,
+    "thumbnail": "static/img/Breakingbad1s/A No-Rough-Stuff-Type Deal.webp",
+    "descriptionS": "Уолтер и Джесси пытаются наладить отношения с Туко, но сталкиваются с непредвиденными проблемами. Хэнк продолжает расследование, что заставляет Уолтера нервничать.",
+    "url": "movie.html?id=breakingbads1e7",
+    "trailer": "https://peertube.wtf/videos/embed/jzE9Bn8WwCAerBe5xLczir?warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+  }
+]
+  },
+  {
+    "name": "John Wick",
+    "imdb": 9.8,
+    "description": "После смерти жены бывший наемный убийца Джон Уик возвращается в криминальный мир...",
+    "date": "2022",
+    "mainIMGDESCK":"static/img/jhon wick-main.jpg",
+    "mainIMGMB":"static/img/JW-MainMB.jpg",
+    "sposter": "static/img/John Wick.webp",
+    "bposter": "static/img/jhon wick1.webp",
+    "genre": "Action",
+    "kidsM":"no",
+    "type": "movie",
+    "url": "movie.html?id=johnwick",
+    "trailer": "static/video/john wick.webm",
+    "Film":"static/video/john wick.webm",
+    "low": "video/Jhon Wick 480ph.mp4",
+    "medium": "video/Jhon Wick 720ph.mp4",
+    "high": "video/Jhon Wick 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Rick and Morty",
+    "imdb": 9.2,
+    "description": "Сериал рассказывает о приключениях безумного ученого Рика Санчеза и его наивного внука Морти Смита. Вместе они путешествуют по мультивселенным, сталкиваются с невероятными существами и попадают в различные парадоксальные ситуации.",
+    "date": "2013",
+    "mainIMGDESCK": "static/img/Rick and Morty-Main.jpg",
+    "mainIMGMB": "static/img/RaM-mainMB.jpg",
+    "sposter": "static/img/Rick and Morty.webp",
+    "bposter": "static/img/Rick and Morty1.webp",
+    "genre": "Animation",
+    "kidsM": "Kids",
+    "type": "series",
+    "url": "movie.html?id=rick_and_morty",
+    "trailer": "static/video/rick_and_morty_trailer.webm",
+    "Film": "static/video/rick_and_morty_episode1.webm",
+    "low": "video/rick_and_morty_480p.mp4",
+    "medium": "video/rick_and_morty_720p.mp4",
+    "high": "video/rick_and_morty_1080p.mp4",
+    "episodes": [
+        {
+            "title": "Pilot",
+            "season": 1,
+            "episode_number": 1,
+            "duration": "22 min",
+            "video": "static/video/rick_and_morty_season1_episode1.mp4"
+        },
+        {
+            "title": "Lawn Mower Dog",
+            "season": 1,
+            "episode_number": 2,
+            "duration": "22 min",
+            "video": "static/video/rick_and_morty_season1_episode2.mp4"
+        }
+    ]
+},
+{
+  "name": "Принцесса Мононоке",
+  "imdb": 8.4,
+  "description": "Во время борьбы за жизнь своего племени молодой воин Аситака оказывается втянут в конфликт между духами леса и людьми, разрушающими природу.",
+  "date": "1997",
+  "mainIMGDESCK": "static/img/mononoke-Main.jpg",
+  "mainIMGMB": "static/img/mononokeMain-MB.jpg",
+  "sposter": "static/img/mononoke.webp",
+  "bposter": "static/img/mononoke1.webp",
+  "genre": "Anime",
+  "kidsM": "yes",
+  "type": "movie",
+  "url": "movie.html?id=mononoke",
+  "trailer": "static/video/princess-mononoke-trailer.webm",
+  "Film": "static/video/princess-mononoke.webm",
+  "low": "video/princess-mononoke-480p.mp4",
+  "medium": "video/princess-mononoke-720p.mp4",
+  "high": "video/princess-mononoke-1080p.mp4",
+  "episodes": []
+}
+
+
+]
+

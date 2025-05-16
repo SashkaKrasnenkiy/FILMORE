@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>kino</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="static/style/movieMB.css" media="(max-width: 768px)">
+
+<!-- Для экранов больше 768px -->
+<link rel="stylesheet" href="static/style/movieDesck.css" media="(min-width: 769px)">
+</head>
+
+
+
+
+<body>
+  <div id="header-content">
+      <img src="static/img/film-reel.png" alt="logo" />
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">Series</a></li>
+        <li><a href="#">Movies</a></li>
+        <li><a href="#">Kids</a></li>
+      </ul>
+    </div>
+    
+  <header>
+    
+    <div id="video-container">
+      <iframe
+        id="video"
+        src="https://videos.sproutvideo.com/embed/0691d4b41a13ebc78f/74abe23c8f6e39c1"
+        frameborder="0"
+        allowfullscreen
+        allow="autoplay"
+      ></iframe>
+    </div>
+  </header>
+
+  <!-- Список серий -->
+  <div class="Seson" id="episode-wrapper">
+    <h4 style="color:white;padding:10px;">Серии</h4>
+    <div class="cards" id="episode-list">
+      <!-- Серии вставляются динамически -->
+    </div>
+  </div>
+
+  <!-- Список актеров -->
+<div class="actors-section">
+  <h4>Actors</h4>
+  <div class="actors-list">
+    <!-- Сюда будут вставляться актеры динамически -->
+  </div>
+</div>
+
+
+
+
+
+  <!-- Список сериалов -->
+  <div class="main">
+    <section>
+      <h4>Series</h4>
+      <i class="bi bi-chevron-left" id="left-series"></i>
+      <i class="bi bi-chevron-right" id="right-series"></i>
+      <div class="cards" id="cards-series">
+        <!-- Сериалы вставляются динамически -->
+      </div>
+    </section>
+  </div>
+
+  <div class="comments-section" id="comments-section">
+    <h3>Комментарии</h3>
+    <form id="comment-form">
+      <p id="userNameDisplay">Имя: ...</p>
+      <textarea id="commentText" placeholder="Ваш комментарий" required></textarea>
+      <button type="submit">Отправить</button>
+    </form>
+    <div id="comments-list"></div>
+    
+  </div>
+
+  <script type="module" src="static/firebaseConfig.js"></script>
+  <script  type="module" src="static/movie.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+body {
+  font-family: sans-serif;
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px); /* Safari */
+  will-change: backdrop-filter;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+}
+
+input, button {
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+}
+
+input {
+  background-color: #555555;
+  color: #ffffff;
+}
+
+button {
+  background-color: #555555;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #777777;
+}
+
+#userStatus {
+  text-align: center;
+  margin-top: 20px;
+  color: #b0b0b0;
+}
+
+/* Фоновые изображения */
+#ImgMB {
+  display: none;
+}
+
+#ImgDesck {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(180deg, transparent, #1f1f1f),
+              url('static/img/Sing-DESK.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  z-index: -1;
+}
+
+@media (max-width: 768px) {
+  #ImgDesck {
+    display: none;
+  }
+
+  #ImgMB {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(180deg, transparent, #000),
+                url('static/img/Sing-MB.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: -1;
+  }
+}

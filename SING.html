@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FILMORE | Регистрация и вход</title>
+  <link rel="icon" href="static/img/film-reel.png" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/style/StyleSing.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Форма входа (будет видна по умолчанию) -->
+    <div id="loginForm">
+      <h2>Вход</h2>
+      <input type="email" id="loginEmail" placeholder="Email" required>
+      <input type="password" id="loginPassword" placeholder="Пароль" required>
+      <button onclick="login()">Войти</button>
+      <button onclick="showRegisterForm()">Зарегистрироваться</button>
+    </div>
+
+    <!-- Форма регистрации (будет скрыта по умолчанию) -->
+    <div id="registerForm" style="display: none;">
+      <h2>Регистрация</h2>
+      <input type="text" id="regName" placeholder="Имя пользователя" required>
+      <input type="email" id="regEmail" placeholder="Email" required>
+      <input type="password" id="regPassword" placeholder="Пароль" required>
+      <button onclick="register()">Зарегистрироваться</button>
+      <button onclick="showLoginForm()">Назад к входу</button>
+    </div>
+
+    <!-- Кнопка выхода (будет скрыта по умолчанию) -->
+    <button id="logoutButton" onclick="logout()" style="display: none;">Выйти</button>
+
+    <p id="userStatus"></p>
+  </div>
+  <img src="static/img/Sing-DESK.jpg" id="ImgDesck" alt="">
+  <img src="static/img/Sing-MB.jpg" id="ImgMB" alt="">
+
+  <!-- JS -->
+  <script type="module" src="static/firebaseConfig.js"></script>
+  <script type="module" src="static/auth.js"></script>
+</html>
